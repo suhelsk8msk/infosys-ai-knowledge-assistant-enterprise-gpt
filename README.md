@@ -1,7 +1,7 @@
 # 🏢 Infosys: AI Knowledge Assistant (Enterprise GPT)
 
 [![Live Application](https://img.shields.io/badge/Live%20App-Vercel%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://infosys-ai-knowledge-assistant-ente-chi.vercel.app/login)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujwal-Bamb/infosys-ai-knowledge-assistant-enterprise-gpt.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhelsk8msk/infosys-ai-knowledge-assistant-enterprise-gpt)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-14.2%20(App%20Router)-000000?style=flat&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?style=flat&logo=fastapi&logoColor=white)
