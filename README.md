@@ -25,7 +25,7 @@
 ## 🔗 Quick Links
 
 - **🌐 Live Production Application**: [https://infosys-ai-knowledge-assistant-ente-chi.vercel.app/login](https://infosys-ai-knowledge-assistant-ente-chi.vercel.app/login)
-- **💻 GitHub Source Code**: [https://github.com/Ujwal-Bamb/infosys-ai-knowledge-assistant-enterprise-gpt.git](https://github.com/suhelsk8msk/infosys-ai-knowledge-assistant-enterprise-gpt)
+- **💻 GitHub Source Code**: [https://github.com/Ujwal-Bamb/infosys-ai-knowledge-assistant-enterprise-gpt.git]()
 - https://github.com/suhelsk8msk/infosys-ai-knowledge-assistant-enterprise-gpt
 - **⚡ Backend API Service**: Deployed on [Render](https://render.com) (FastAPI + Uvicorn)
 - **🗄️ Vector Database**: PostgreSQL with `pgvector` extension (Cosine distance metric)
